@@ -1393,10 +1393,10 @@
   resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.29.0.tgz#cc3fa43980280637de9bd42d653e363812aa0e91"
   integrity sha512-6LcrnZ3QRQrbWvKLfdSvfrk1nyezLaDAT8yIhQXLOhhtm3iK+knIpdGbNfKiTgxbdSDkK69IcXNV4ifcq23bIQ==
 
-"@pothos/plugin-prisma@3.47.2":
-  version "3.47.2"
-  resolved "https://registry.yarnpkg.com/@pothos/plugin-prisma/-/plugin-prisma-3.47.2.tgz#436ac2c062d713c265a707f7f103446b02d80682"
-  integrity sha512-S38uYCETz1310HK9iKg8V87qkUqPW8pfDGDqbbhURBt5nqFHu8iCTzjY28DPWa8E68rME3KZEtXBzc1mwZH4eg==
+"@pothos/plugin-prisma@3.47.3":
+  version "3.47.3"
+  resolved "https://registry.yarnpkg.com/@pothos/plugin-prisma/-/plugin-prisma-3.47.3.tgz#18e9a4786b89d282deafe1065487fa76162f1933"
+  integrity sha512-/LsUC2/nfHO3EZw6Bc7Bkb7+1vte/rmw9G8Ap4nxgqYuYTyqkFgq3RvLzbPyDYem8QVwL+QX6z51u2hVQPsN+Q==
   dependencies:
     "@prisma/generator-helper" "^4.11.0"
 
