@@ -35,7 +35,7 @@
     "~gql": "link:./src/lib/graphql"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "3.3.1",
+    "@graphql-codegen/cli": "5.0.0",
     "@graphql-codegen/client-preset": "2.1.1",
     "@types/node": "18.16.3",
     "@types/react": "18.2.8",
